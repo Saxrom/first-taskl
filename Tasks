@@ -1,0 +1,54 @@
+﻿using System;
+
+namespace task
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Console.WriteLine("Ededi daxil edin");
+            //int num = Convert.ToInt32(Console.ReadLine());
+            //if (num % 2 == 0)
+            //    Console.WriteLine("Eded cutdur");
+            //else
+            //    Console.WriteLine("Eded tekdir");
+            {
+
+
+
+
+                //Console.WriteLine("Birinci ededi daxil edin");
+                //int num = Convert.ToInt32(Console.ReadLine());
+                //Console.WriteLine("Ikinci ededi daxil edin");
+                //int num1 = Convert.ToInt32(Console.ReadLine());
+                //if (num > num1)
+                //    Console.WriteLine("Birinci eded boyukdur");
+                //else if (num < num1)
+                //    Console.WriteLine("Ikinci eded boyukdur");
+                //else
+                //    Console.WriteLine("Beraberdir");
+
+                {
+
+                }
+                {
+
+                }
+
+                { 
+                
+                {
+
+                }
+
+                }
+                {
+
+                }
+
+            }
+
+
+        }
+    }
+}
